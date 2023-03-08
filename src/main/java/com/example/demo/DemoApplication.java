@@ -20,7 +20,7 @@ public class DemoApplication {
         System.getenv().getOrDefault("HOSTNAME", "unknown");
 
     private static final String GREETING =
-        System.getenv().getOrDefault("GREETING", "7 Hi");
+        System.getenv().getOrDefault("GREETING", "8 Aloha");
 
     
     @RequestMapping("/")
